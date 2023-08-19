@@ -1,0 +1,31 @@
+.hii{
+    border: 5px solid green;
+    border-radius: 8px;
+}
+
+#first{
+    height: 300px;
+    width: 400px;
+}
+
+#hello{
+    height: 200px;
+    width: 300px;
+    margin: 40px;
+    border-color: blue;
+}
+
+#hello1{
+    height: 130px;
+    width: 170px;
+    margin: 30px;
+    margin-left: 60px;
+    border-color: orange;
+}
+
+#hello2{
+    height: 60px;
+    width: 100px;
+    margin: 30px;
+    border-color: pink;
+}
